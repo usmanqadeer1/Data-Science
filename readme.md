@@ -1,64 +1,76 @@
 # Data Science and Machine Learning Projects
 
-Welcome to the repository for various data science and machine learning projects. This repository contains a collection of projects related to anomaly detection, regression analysis, decision trees, natural language processing, and more. Each project is organized into its respective folder.
+Welcome to the repository for various data science and machine learning projects. This repository contains a collection of projects related to data analysis, regression analysis, classification techniques, neural networks, and more. Each project is organized into its respective folder.
 
-Each subfolder contains specific projects related to different areas of data science and machine learning. Below is a brief overview of the content in each subfolder:
+## Latest Commit
+- `usmanqadeer1` added readme files (0f54469)
 
-### Anomaly detection in Time Series
-Projects related to detecting anomalies in time series data.
+## How to Use This Repository
 
-### Apple and Google Play Store Analysis
-Analysis of data from Apple and Google Play stores, including data cleaning, visualization, and regression analysis.
+Each subfolder contains specific projects related to different areas of data science and machine learning. Below is a brief overview of the content in each subfolder with links to the respective directories:
 
-### Decision Trees
-Projects implementing decision tree algorithms for classification and regression tasks.
-
-### EXCEL
+### 1. [Data Analysis using EXCEL](./EXCEL)
 Projects demonstrating data analysis and visualization using Microsoft Excel.
 
-### LINEAR REGRESSION
-Projects related to simple and multiple linear regression analysis.
-
-### LLM
-Projects involving large language models (LLM).
-
-### Logistic Regression
-Projects implementing logistic regression for binary and multiclass classification tasks.
-
-### Multiple linear Regression
-Advanced projects related to multiple linear regression analysis.
-
-### NLP
-Projects involving natural language processing tasks such as text classification, sentiment analysis, etc.
-
-### PANDAS
+### 2. [PANDAS](./PANDAS)
 Projects demonstrating data manipulation and analysis using the Pandas library.
 
-### RNN-LSTM
-Projects involving recurrent neural networks (RNN) and long short-term memory networks (LSTM) for sequence prediction.
+### 3. [LINEAR REGRESSION](./LINEAR%20REGRESSION)
+Projects related to simple and multiple linear regression analysis.
 
-### Tensorflow_Specialization
-Projects created using the TensorFlow specialization course on Coursera.
+### 4. [Multiple linear Regression](./Multiple%20linear%20Regression)
+Advanced projects related to multiple linear regression analysis.
 
-### Unsupervised Learning
+### 5. [Logistic Regression](./Logistic%20Regression)
+Projects implementing logistic regression for binary and multiclass classification tasks.
+
+### 6. [Decision Trees](./Decision%20Trees)
+Projects implementing decision tree algorithms for classification and regression tasks.
+
+### 7. SVM and KNN
+Projects implementing Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) for classification tasks.
+
+### 8. Ensemble Methods
+Projects implementing ensemble methods like Random Forest, Gradient Boosting, and more.
+
+### 9. [Validation Techniques](./Validation%20Techniques)
+Projects demonstrating various validation techniques such as cross-validation, train-test split, etc.
+
+### 10. [Unsupervised Learning](./Unsupervised%20Learning)
 Projects related to clustering and other unsupervised learning techniques.
 
-### Validation Techniques
-Projects demonstrating various validation techniques such as cross-validation, train-test split, etc.
+### 11. Dimensionality Reduction
+Projects implementing techniques like PCA, LDA, and more for dimensionality reduction.
+
+### 12. Time Series Modeling ARIMA and SARIMA
+Projects related to time series modeling using ARIMA and SARIMA.
+
+### 13. ANN
+Projects involving Artificial Neural Networks (ANN).
+
+### 14. CNN
+Projects involving Convolutional Neural Networks (CNN).
+
+### 15. [RNN-LSTM](./RNN-LSTM)
+Projects involving recurrent neural networks (RNN) and long short-term memory networks (LSTM) for sequence prediction.
+
+### 16. [Anomaly detection in Time Series](./Anomaly%20detection%20in%20Time%20Series)
+Projects related to detecting anomalies in time series data.
+
+### 17. [NLP](./NLP)
+Projects involving natural language processing tasks such as text classification, sentiment analysis, etc.
+
+### 18. [Tensorflow_Specialization](./Tensorflow_Specialization)
+Projects created using the TensorFlow specialization course on Coursera.
+
+### 19. [LLM](./LLM)
+Projects involving large language models (LLM).
 
 ## Getting Started
 
 To get started with any project, navigate to the respective folder and follow the instructions provided in the README file of that folder (if available). 
 
-## Contributing
-
-Contributions are welcome! If you have any improvements or new projects to add, feel free to open a pull request or submit an issue.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
 Thank you for visiting this repository! If you have any questions or need further assistance, please feel free to contact the repository owner.
-
