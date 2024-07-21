@@ -9,31 +9,31 @@ Welcome to the repository for various data science and machine learning projects
 
 Each subfolder contains specific projects related to different areas of data science and machine learning. Below is a brief overview of the content in each subfolder with links to the respective directories:
 
-### 1. [Data Analysis using EXCEL](./1.%20Data%20Analysis%20using%20EXCEL)
+### 1. [Data Analysis using EXCEL](./01.%20Data%20Analysis%20using%20EXCEL)
 Projects demonstrating data analysis and visualization using Microsoft Excel.
 
-### 2. [PANDAS](./2.%20PANDAS)
+### 2. [PANDAS](./02.%20PANDAS)
 Projects demonstrating data manipulation and analysis using the Pandas library.
 
-### 3. [LINEAR REGRESSION](./3.%20LINEAR%20REGRESSION)
+### 3. [LINEAR REGRESSION](./03.%20LINEAR%20REGRESSION)
 Projects related to simple and multiple linear regression analysis.
 
-### 4. [Multiple linear Regression](./4.%20Multiple%20linear%20Regression)
+### 4. [Multiple linear Regression](./04.%20Multiple%20linear%20Regression)
 Advanced projects related to multiple linear regression analysis.
 
-### 5. [Logistic Regression](./5.%20Logistic%20Regression)
+### 5. [Logistic Regression](./05.%20Logistic%20Regression)
 Projects implementing logistic regression for binary and multiclass classification tasks.
 
-### 6. [Decision Trees](./6.%20Decision%20Trees)
+### 6. [Decision Trees](./06.%20Decision%20Trees)
 Projects implementing decision tree algorithms for classification and regression tasks.
 
-### 7. SVM and KNN(./7.%20SVM%20and%20KNN)
+### 7. SVM and KNN(./07.%20SVM%20and%20KNN)
 Projects implementing Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) for classification tasks.
 
-### 8. Ensemble Methods(./8%20Ensemble%20Methods)
+### 8. Ensemble Methods(./08%20Ensemble%20Methods)
 Projects implementing ensemble methods like Random Forest, Gradient Boosting, and more.
 
-### 9. [Validation Techniques](./9.%20Validation%20Techniques)
+### 9. [Validation Techniques](./09.%20Validation%20Techniques)
 Projects demonstrating various validation techniques such as cross-validation, train-test split, etc.
 
 ### 10. [Unsupervised Learning](./10.%20Unsupervised%20Learning)
