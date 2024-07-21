@@ -9,7 +9,7 @@ Welcome to the repository for various data science and machine learning projects
 
 Each subfolder contains specific projects related to different areas of data science and machine learning. Below is a brief overview of the content in each subfolder with links to the respective directories:
 
-### 1. [Data Analysis using EXCEL](./EXCEL)
+### 1. [Data Analysis using EXCEL](./1.%20Data%20Analysis%20using%20EXCEL)
 Projects demonstrating data analysis and visualization using Microsoft Excel.
 
 ### 2. [PANDAS](./PANDAS)
