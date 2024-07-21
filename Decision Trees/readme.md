@@ -1,3 +1,3 @@
 # Decision Trees
 
-![iris_decision_tree.png]
+![Sample Decision Tree](iris_decision_tree.png)
