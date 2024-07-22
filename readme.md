@@ -27,10 +27,10 @@ Projects implementing logistic regression for binary and multiclass classificati
 ### 6. [Decision Trees](./06.%20Decision%20Trees)
 Projects implementing decision tree algorithms for classification and regression tasks.
 
-### 7. SVM and KNN(./07.%20SVM%20and%20KNN)
+### 7. [SVM and KNN](./07.%20SVM%20and%20KNN)
 Projects implementing Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) for classification tasks.
 
-### 8. Ensemble Methods(./08%20Ensemble%20Methods)
+### 8. [Ensemble Methods](./08%20Ensemble%20Methods)
 Projects implementing ensemble methods like Random Forest, Gradient Boosting, and more.
 
 ### 9. [Validation Techniques](./09.%20Validation%20Techniques)
@@ -39,16 +39,16 @@ Projects demonstrating various validation techniques such as cross-validation, t
 ### 10. [Unsupervised Learning](./10.%20Unsupervised%20Learning)
 Projects related to clustering and other unsupervised learning techniques.
 
-### 11. Dimensionality Reduction(./11%20Dimensionality%20Reduction)
+### 11. [Dimensionality Reduction](./11%20Dimensionality%20Reduction)
 Projects implementing techniques like PCA, LDA, and more for dimensionality reduction.
 
-### 12. Time Series Modeling ARIMA and SARIMA(./12%20Time%20Series%20Modeling%20ARIMA%20and%20SARIMA)
+### 12. [Time Series Modeling ARIMA and SARIMA](./12%20Time%20Series%20Modeling%20ARIMA%20and%20SARIMA)
 Projects related to time series modeling using ARIMA and SARIMA.
 
-### 13. ANN(./13%20ANN)
+### 13. [ANN](./13%20ANN)
 Projects involving Artificial Neural Networks (ANN).
 
-### 14. CNN(./14%20CNN)
+### 14. [CNN](./14%20CNN)
 Projects involving Convolutional Neural Networks (CNN).
 
 ### 15. [RNN-LSTM](./15%20RNN-LSTM)
