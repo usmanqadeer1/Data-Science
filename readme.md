@@ -18,7 +18,7 @@ Projects demonstrating data manipulation and analysis using the Pandas library.
 ### 3. [LINEAR REGRESSION](./03.%20LINEAR%20REGRESSION)
 Projects related to simple and multiple linear regression analysis.
 
-### 4. [Multiple linear Regression](./04.%20Multiple%20linear%20Regression)
+### 4. [Multiple linear Regression](./04.%20Multiple%20Linear%20Regression)
 Advanced projects related to multiple linear regression analysis.
 
 ### 5. [Logistic Regression](./05.%20Logistic%20Regression)
