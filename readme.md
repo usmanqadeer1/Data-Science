@@ -30,7 +30,7 @@ Projects implementing decision tree algorithms for classification and regression
 ### 7. [SVM and KNN](./07.%20SVM%20and%20KNN)
 Projects implementing Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) for classification tasks.
 
-### 8. [Ensemble Methods](./08%20Ensemble%20Methods)
+### 8. [Ensemble Methods](./08.%20Ensemble%20Methods)
 Projects implementing ensemble methods like Random Forest, Gradient Boosting, and more.
 
 ### 9. [Validation Techniques](./09.%20Validation%20Techniques)
@@ -39,31 +39,31 @@ Projects demonstrating various validation techniques such as cross-validation, t
 ### 10. [Unsupervised Learning](./10.%20Unsupervised%20Learning)
 Projects related to clustering and other unsupervised learning techniques.
 
-### 11. [Dimensionality Reduction](./11%20Dimensionality%20Reduction)
+### 11. [Dimensionality Reduction](./11.%20Dimensionality%20Reduction)
 Projects implementing techniques like PCA, LDA, and more for dimensionality reduction.
 
-### 12. [Time Series Modeling ARIMA and SARIMA](./12%20Time%20Series%20Modeling%20ARIMA%20and%20SARIMA)
+### 12. [Time Series Modeling ARIMA and SARIMA](./12.%20Time%20Series%20Modeling%20ARIMA%20and%20SARIMA)
 Projects related to time series modeling using ARIMA and SARIMA.
 
-### 13. [ANN](./13%20ANN)
+### 13. [ANN](./13.%20ANN)
 Projects involving Artificial Neural Networks (ANN).
 
-### 14. [CNN](./14%20CNN)
+### 14. [CNN](./14.%20CNN)
 Projects involving Convolutional Neural Networks (CNN).
 
-### 15. [RNN-LSTM](./15%20RNN-LSTM)
+### 15. [RNN-LSTM](./15.%20RNN-LSTM)
 Projects involving recurrent neural networks (RNN) and long short-term memory networks (LSTM) for sequence prediction.
 
-### 16. [Anomaly detection in Time Series](./16%20Anomaly%20detection%20in%20Time%20Series)
+### 16. [Anomaly detection in Time Series](./16.%20Anomaly%20detection%20in%20Time%20Series)
 Projects related to detecting anomalies in time series data.
 
-### 17. [NLP](./17%20NLP)
+### 17. [NLP](./17.%20NLP)
 Projects involving natural language processing tasks such as text classification, sentiment analysis, etc.
 
-### 18. [Tensorflow_Specialization](./18%20Tensorflow_Specialization)
+### 18. [Tensorflow_Specialization](./18.%20Tensorflow_Specialization)
 Projects created using the TensorFlow specialization course on Coursera.
 
-### 19. [LLM](./19%20LLM)
+### 19. [LLM](./19.%20LLM)
 Projects involving large language models (LLM).
 
 ## Getting Started
